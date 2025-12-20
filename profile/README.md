@@ -1,4 +1,4 @@
-![spooky-soup.png](spooky-soup.png)
+![soupmas.png](soupmas.png)
 
 Trick-or-treat! :D
 
